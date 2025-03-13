@@ -16,3 +16,10 @@ https://mp.weixin.qq.com/s/9F9kzsvnAKvJ-joW_PIe9w
 
 🔗 Roboflow: https://universe.roboflow.com/ktaivleschool-6njsd/cctv_cars_bike_detection-gi3nf/dataset/6
 ```
+
+# 处理前
+<video src="./datasets/emniyett.mp4" controls="controls" width="500" height="300"></video>
+
+# 处理后
+
+<video src="./runs/output_lane_detection.mp4" controls="controls" width="500" height="300"></video>
