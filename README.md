@@ -22,4 +22,4 @@ https://mp.weixin.qq.com/s/9F9kzsvnAKvJ-joW_PIe9w
 
 # 处理后
 
-<video src="./runs/output_lane_detection.mp4" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/CHDers/Detecting-traffic-volume-and-vehicle-speed-in-different-lanes-based-YOLO12/runs/output_lane_detection.mp4" controls="controls" width="500" height="300"></video>
